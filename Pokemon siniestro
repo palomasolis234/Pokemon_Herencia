@@ -1,0 +1,7 @@
+public class PokemonSiniestro extends Pokemon {
+ 
+public PokemonSiniestro(String nombre, int nivel) {
+super(nombre, "Nombre del tipo", nivel);
+
+}
+}
